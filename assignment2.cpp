@@ -1,9 +1,3 @@
-/*
-Name: Dylan Aguilar, 5008028748, CS135, Assignment 2
-Description: A program using cmath and iomanip
-Input: radius of a sphere, 2 sides of a triangle, and a real number
-Output: volume, third side of triangle, absolute value
-*/
 
 //include file libraries
 #include <iostream>
