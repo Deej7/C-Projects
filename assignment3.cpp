@@ -1,8 +1,3 @@
-/*Name: Dylan Aguilar, 5008028748, CS135, Assignment3
-Description: blackjack game
-Input: integer values for # of drawn cards and chars for drawing cards
-Output: list of integers increasing from starting to ending in increments
-*/
 
 //including libraries
 #include <iostream>
