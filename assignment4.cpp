@@ -1,8 +1,3 @@
-/*Name: Dylan Aguilar, 5008028748, CS135, Assignment4
-Description: automated ticket booking machine
-Input: seat type (char), amount of tickets (int), and yes or no (char)
-Output: Cost of tickets
-*/
 
 //include libraries 
 #include <iostream>
