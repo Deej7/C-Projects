@@ -1,9 +1,4 @@
-/*
-Name: Dylan Aguilar, 5008028748, CS135, Assignment 1
-Description:  A program to sell doors at a 75% markup by the piece
-Input: Asking for the price and quantity
-Output: Calculation of doors purchased, price, and profit
-*/
+
 #include <iostream>
 using namespace std;
 
